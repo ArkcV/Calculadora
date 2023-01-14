@@ -55,3 +55,8 @@ input{
 .btn-clear{
     background-color: #790606;
 }
+
+.display{
+    text-align: right;
+    font-size: 25px;
+}
